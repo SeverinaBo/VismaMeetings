@@ -1,0 +1,36 @@
+[
+  {
+    "meetingName": "Jono susirinkimas",
+    "responsiblePerson": "Jonas",
+    "description": "meeting about new project",
+    "category": {
+      "codeMonkey": "true",
+      "hub": "false",
+      "isShort": "false",
+      "teamBuilding": "false"
+    },
+    "type": {
+      "live": "true",
+      "inPerson": "false"
+    },
+    "startDate": "2023-05-05T15:04",
+    "endDate": "2023-05-06T16:04"
+  },
+  {
+    "meetingName": "Severinos susirinkimas",
+    "responsiblePerson": "Severina",
+    "description": "darbo pokalbis įmonėje Visma",
+    "category": {
+      "codeMonkey": "false",
+      "hub": "false",
+      "isShort": "true",
+      "teamBuilding": "false"
+    },
+    "type": {
+      "live": "true",
+      "inPerson": "false"
+    },
+    "startDate": "2023-05-18T15:04",
+    "endDate": "2023-05-18T15:04"
+  }
+]
