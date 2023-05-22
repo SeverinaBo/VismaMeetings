@@ -1,6 +1,6 @@
 # 💫 Project for internship at Visma:
 🔭 Hello! Thank you for giving me a chance to work at your company, and be a part of great team.<br> 
-In this project you can find the project for Visma meetings.<br>
+In this project you can find the code for Visma meetings.<br>
 <br>
 <br>
 Here are my other projects if you would like to check them:
